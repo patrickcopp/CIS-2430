@@ -1,0 +1,8 @@
+CIS*1910,0.5, Discrete,CIS*1500:CIS*2750
+CIS*1500,0.5,Programming Intro
+CIS*2500,0.5,Programming Interm,CIS*1500:CIS*1910
+CIS*2750,0.75,Angel,CIS*2500
+PSYC*1000,0.5,Intro Psych
+PHYS*1080,0.5,Intro Phys,PHYS*1300
+PHYS*1300,0.5,Baby phys
+***

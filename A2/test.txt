@@ -1,0 +1,4 @@
+CIS*2430,0.5,Object Oriented Programming,F,CIS*2500
+CIS*2750,0.75,Software Systems Development and Integration,B,CIS*2520:CIS*2430
+CIS*1500,0.5,Intro to Programming,B,
+CIS*2520,0.5,Data Structures,B,CIS*2500
